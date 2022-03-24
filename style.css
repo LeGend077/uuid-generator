@@ -1,0 +1,14 @@
+h1{
+    font-weight: 300;
+    color: white;
+}
+
+body
+{
+    background-color: rgb(26, 26, 26);
+}
+
+#result{
+    font-weight: 800;
+    text-align: center;
+}
